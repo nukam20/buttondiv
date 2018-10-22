@@ -1,0 +1,29 @@
+.body{
+  font-family: 'Courier New', Courier, monospace;
+}
+.container{
+  height: 300px;
+  width:300px;
+  background:  #f2f2f2;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow:  0 4px 25px 0 rgba(0, 0, 0, 0.25);
+
+  
+}
+.display-blue{
+  background:blue;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.button-wrapper{
+  margin-top: 30px;
+  text-align: center;
+  
+}
+.button{
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+  background: blanchedalmond;
+}
